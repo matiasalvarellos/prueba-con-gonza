@@ -1,4 +1,4 @@
 function saludar() {
   return "Hola";
 }
-saludar();
+saludar() + "Como te va";
